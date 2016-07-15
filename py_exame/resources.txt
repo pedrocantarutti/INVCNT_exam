@@ -1,0 +1,10 @@
+# This file has all the links to the resources that was used
+
+# 1 - http://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html
+# 2 - http://docs.python-guide.org/en/latest/writing/documentation/
+# 3 - https://docs.python.org/3/library/os.html#os-file-dir
+# 4 - http://pep8online.com/checkresult
+# 5 - http://www.cp.eng.chula.ac.th/~piak/teaching/algo/algo2008/count-inv.htm
+# 6 - http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
+# 7 - http://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533
+# 8 - https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/05DivideAndConquerI.pdf
