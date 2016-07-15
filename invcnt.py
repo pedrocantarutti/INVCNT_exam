@@ -1,5 +1,9 @@
 #! /usr/bin/python3
 
+# File Name    : invcnt.py
+# Author       : Pedro Cantarutti
+# Created      : 14th July 2016
+
 
 def aux(lst):
     """ Simple auxiliary function to pick only the counter result. """
@@ -15,7 +19,7 @@ def merge(lst):
     left_side, l_inv_counter = merge(lst[:mid_index])
     right_side, r_inv_counter = merge(lst[mid_index:])
     final_array, f_inv_counter = merge_sort(left_side,
-                                                             right_side)
+                                            right_side)
     return final_array, (l_inv_counter + r_inv_counter + f_inv_counter)
 
 
