@@ -1,6 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/pedrocantarutti/invcnt_exam/badge/master)](https://www.codefactor.io/repository/github/pedrocantarutti/invcnt_exam/overview/master)
 
-[![CircleCI](https://circleci.com/gh/pedrocantarutti/INVCNT_exam.svg?style=svg)](https://circleci.com/gh/pedrocantarutti/INVCNT_exam)
+[![CircleCI](https://circleci.com/gh/pedrocantarutti/INVCNT_exam.svg?style=shield)](https://circleci.com/gh/pedrocantarutti/INVCNT_exam)
 
 
 # INVCNT_exam
