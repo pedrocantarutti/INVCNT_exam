@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/pedrocantarutti/invcnt_exam/badge/master)](https://www.codefactor.io/repository/github/pedrocantarutti/invcnt_exam/overview/master)
+
 # INVCNT_exam
 - A resolution written in Python for the INVCNT - Inversion Count problem  from spoj. link: http://www.spoj.com/problems/INVCNT/
 - Technical relevant aspects:
